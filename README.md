@@ -38,7 +38,8 @@ The actions appear under **Actions** in a group called **Kick Shoutouts**.
    A page of text appears. Find these two numbers:
    - `CHANNEL_ID`: the very first `"id"` on the page
    - `CHATROOM_ID`: the `"id"` inside the section that starts `"chatroom"`
-
+      (located at the bottom for me, ctrl+f "chatroom" to find it)
+      
 2. In Streamer.bot go to **Actions > Kick Shoutouts > Kick Raid Shoutout**. In the Sub-Actions panel, double-click **Execute C# Code**.
 3. Near the top, in the `SETTINGS` block, put your numbers between the quotes:
 
